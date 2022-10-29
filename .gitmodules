@@ -1,0 +1,9 @@
+[submodule "pack/plugins/start/vimwiki"]
+	path = pack/plugins/start/vimwiki
+	url = git@github.com:vimwiki/vimwiki.git
+[submodule "pack/plugins/start/plenary.nvim"]
+	path = pack/plugins/start/plenary.nvim
+	url = git@github.com:nvim-lua/plenary.nvim.git
+[submodule "pack/plugins/start/telescope.nvim"]
+	path = pack/plugins/start/telescope.nvim
+	url = git@github.com:nvim-telescope/telescope.nvim.git
