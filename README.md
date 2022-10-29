@@ -1,6 +1,6 @@
 # Neovim Configuration
 
-This is my personal Neovim configuration using Lua for configuration. I'm a Ruby, Rails, and Jekyll developer.
+This is my personal Neovim configuration using Lua. I'm a Ruby, Rails, and Jekyll developer.
 
 ## Plugins
 
