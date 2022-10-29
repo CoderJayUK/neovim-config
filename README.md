@@ -14,10 +14,4 @@ I do not use a plugin manager. Instead, plugins are installed to `~/.config/nvim
 
 Navigate to `~/.config` directory and run:
 
-    git clone --recursive-submodules https://github.com/CoderJay/neovim-config
-    
-Rename the directory from `neovim-config` to `neovim`:
-    
-    mv neovim-config neovim
-    
-All Done :)
+    git clone --recurse-submodules https://github.com/CoderJay/neovim-config nvim
