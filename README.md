@@ -1,20 +1,24 @@
 # Neovim Configuration
 
-This is my personal Neovim configuration using Lua for configuration.
+This is my personal Neovim configuration using Lua for configuration. I'm a Ruby, Rails, and Jekyll developer.
 
-## Plugins Used
+## Plugins
 
-I use Neovim's default plugin manager. Plugins are installed to `~/.config/nvim/pack/plugins/start` on Linux, and `%userprofile%/AppData/Local/nvim/pack/plugins/start` on Windows. Run `:help packages` to learn more.
+Did you know Neovim has a built in package manager? Run `:help packages` to learn more. 
+
+Plugins are installed to `~/.config/nvim/pack/plugins/start` on Linux, and `%userprofile%/AppData/Local/nvim/pack/plugins/start` on Windows.
+
+The following plugins are included:
 
 * [Plenary](https://github.com/nvim-lua/plenary.nvim)
 * [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 * [Vimwiki](https://github.com/vimwiki/vimwiki)
 
-This theme is configured to use the [OneDark](https://github.com/navarasu/onedark.nvim) color theme.
+I use the [OneDark](https://github.com/navarasu/onedark.nvim) color theme.
 
 ## Install
 
-Follow the instructions below to install this neovim configuration.
+Follow the instructions below to install this neovim configuration (backup existing files and/or directories where necessary).
 
 ### Linux
 
@@ -24,10 +28,21 @@ Navigate to `~/.config` directory
 
 Navigate to `%userprofile%/AppData/Local` directory
 
-### Clone, and Enjoy
+### Clone and Enjoy
 
 Run the following command on Linux, or Windows, to install:
 
     git clone --recurse-submodules git@github.com:CoderJayUK/neovim-config.git nvim
 
-Now run `nvim` and enter `:Telescope` to test.
+Run `nvim` to see the changes. Try a command like `:Telescope` :)
+
+## Get Updates
+
+    git pull --recurse-submodules
+
+## Notes
+
+* Vimwiki is awesome!
+* No NerdTree, or nvim-tree. I find fuzzy finding with Telescope much faster.
+* No third-party plugin/package manager. Neovim can do this already.
+
