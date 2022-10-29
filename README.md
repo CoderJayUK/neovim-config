@@ -26,6 +26,6 @@ Navigate to `C:/Users/<Your Username>/AppData/Local` directory. Remember to repl
 
 Run the following command on Linux, or Windows, to install:
 
-    git clone --recurse-submodules git@github.com:CoderJay/neovim-config.git nvim
+    git clone --recurse-submodules git@github.com:CoderJayUK/neovim-config.git nvim
 
 Now run `nvim` and enter `:Telescope` to test.
