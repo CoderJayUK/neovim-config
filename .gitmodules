@@ -7,3 +7,9 @@
 [submodule "pack/plugins/start/telescope.nvim"]
 	path = pack/plugins/start/telescope.nvim
 	url = git@github.com:nvim-telescope/telescope.nvim.git
+[submodule "colors/onedark.nvim"]
+	path = colors/onedark.nvim
+	url = git@github.com:navarasu/onedark.nvim.git
+[submodule "pack/colors/start/onedark.nvim"]
+	path = pack/colors/start/onedark.nvim
+	url = git@github.com:navarasu/onedark.nvim.git

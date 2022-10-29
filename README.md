@@ -4,11 +4,13 @@ This is my personal Neovim configuration using Lua for configuration.
 
 ## Plugins Used
 
-I use Neovim's default plugin manager. Plugins are installed to `~/.config/nvim/pack/plugins/start` on Linux, and `%userprofile%/AppData/Local/nvim/pack/plugins/start` on Windows. The plugins in this directory are automatically loaded when you run Neovim.
+I use Neovim's default plugin manager. Plugins are installed to `~/.config/nvim/pack/plugins/start` on Linux, and `%userprofile%/AppData/Local/nvim/pack/plugins/start` on Windows. Run `:help packages` to learn more.
 
 * [Plenary](https://github.com/nvim-lua/plenary.nvim)
 * [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 * [Vimwiki](https://github.com/vimwiki/vimwiki)
+
+This theme is configured to use the [OneDark](https://github.com/navarasu/onedark.nvim) color theme.
 
 ## Install
 
