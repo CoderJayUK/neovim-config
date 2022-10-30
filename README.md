@@ -27,6 +27,7 @@ The following plugins are included:
 * [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 * [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
 * [cmp-luasnip](https://github.com/saadparwaiz1/cmp_luasnip)
+* [cmp-spell](https://github.com/f3fora/cmp-spell)
 
 I use the [OneDark](https://github.com/navarasu/onedark.nvim) color theme.
 

@@ -1,5 +1,7 @@
-require('lsp/ruby')
 require('plugins/nvim-cmp')
+require('plugins/cmp-spell')
+
+require('lsp/ruby')
 
 -- Color Scheme
 require('colors/onedark')
