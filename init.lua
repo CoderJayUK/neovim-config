@@ -1,8 +1,10 @@
-require('onedark').setup {
-  style = 'deep'
-}
+require('lsp/ruby')
+require('plugins/nvim-cmp')
 
-require('onedark').load()
+-- Color Scheme
+require('colors/onedark')
+
+vim.opt.completeopt = { 'menu', 'menuone', 'noselect' }
 
 vim.opt.termguicolors = true
 vim.opt.background = 'dark'

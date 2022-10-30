@@ -1,26 +1,36 @@
 # Neovim Configuration
 
-This is my personal Neovim configuration using Lua. I'm a Ruby, Rails, and Jekyll developer.
+I'm a Ruby, Rails, and Jekyll developer. This is my personal Neovim configuration that uses zero-dependencies.
 
-## Plugins
+* Uses NeoVim's built in package manager (`:help packages`)
 
-Did you know Neovim has a built in package manager? Run `:help packages` to learn more. 
-
-Plugins are installed to `~/.config/nvim/pack/plugins/start` on Linux, and `%userprofile%/AppData/Local/nvim/pack/plugins/start` on Windows.
+## Included Plugins
 
 The following plugins are included:
 
 * [Plenary](https://github.com/nvim-lua/plenary.nvim)
 * [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 * [Vimwiki](https://github.com/vimwiki/vimwiki)
-* [Vim-EasyComplete]()
-* [Vim-Commentary]()
+* [Vim-Commentary](https://github.com/tpope/vim-commentary)
+* [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
+
+LSP
+
+* [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+
+Completion
+
+* [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+* [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
+* [cmp-luasnip](https://github.com/saadparwaiz1/cmp_luasnip)
 
 I use the [OneDark](https://github.com/navarasu/onedark.nvim) color theme.
 
 ## Install
 
 Follow the instructions below to install this neovim configuration (backup existing files and/or directories where necessary).
+
+1. Install Solargraph `gem install solargraph`
 
 ### Linux
 

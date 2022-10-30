@@ -19,3 +19,18 @@
 [submodule "pack/plugins/start/vim-commentary"]
 	path = pack/plugins/start/vim-commentary
 	url = git@github.com:tpope/vim-commentary.git
+[submodule "pack/plugins/start/nvim-lspconfig"]
+	path = pack/plugins/start/nvim-lspconfig
+	url = git@github.com:neovim/nvim-lspconfig.git
+[submodule "pack/plugins/start/nvim-cmp"]
+	path = pack/plugins/start/nvim-cmp
+	url = git@github.com:hrsh7th/nvim-cmp.git
+[submodule "pack/plugins/start/LuaSnip"]
+	path = pack/plugins/start/LuaSnip
+	url = git@github.com:L3MON4D3/LuaSnip.git
+[submodule "pack/plugins/start/cmp_luasnip"]
+	path = pack/plugins/start/cmp_luasnip
+	url = git@github.com:saadparwaiz1/cmp_luasnip.git
+[submodule "pack/plugins/start/cmp-nvim-lsp"]
+	path = pack/plugins/start/cmp-nvim-lsp
+	url = git@github.com:hrsh7th/cmp-nvim-lsp.git
