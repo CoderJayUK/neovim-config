@@ -14,6 +14,7 @@ The following plugins are included:
 * [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 * [Vimwiki](https://github.com/vimwiki/vimwiki)
 * [Vim-EasyComplete]()
+* [Vim-Commentary]()
 
 I use the [OneDark](https://github.com/navarasu/onedark.nvim) color theme.
 
