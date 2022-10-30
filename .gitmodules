@@ -16,3 +16,6 @@
 [submodule "pack/plugins/start/vim-easycomplete"]
 	path = pack/plugins/start/vim-easycomplete
 	url = git@github.com:jayli/vim-easycomplete.git
+[submodule "pack/plugins/start/vim-commentary"]
+	path = pack/plugins/start/vim-commentary
+	url = git@github.com:tpope/vim-commentary.git
