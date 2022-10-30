@@ -40,3 +40,6 @@
 [submodule "pack/plugins/start/cmp-path"]
 	path = pack/plugins/start/cmp-path
 	url = git@github.com:hrsh7th/cmp-path.git
+[submodule "pack/plugins/start/cmp-emoji"]
+	path = pack/plugins/start/cmp-emoji
+	url = git@github.com:hrsh7th/cmp-emoji.git

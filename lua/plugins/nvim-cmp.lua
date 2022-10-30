@@ -16,6 +16,7 @@ cmp.setup({
   sources = cmp.config.sources {
     { name = 'path' },
     { name = 'spell' },
+    { name = 'emoji' },
     { name = 'nvim_lsp' },
     { name = 'buffer' },
     { name = 'luasnip' }
