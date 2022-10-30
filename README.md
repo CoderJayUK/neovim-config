@@ -57,4 +57,3 @@ Run `nvim` to see the changes. Try a command like `:Telescope` :)
 * Vimwiki is awesome!
 * No NerdTree, or nvim-tree. I find fuzzy finding with Telescope much faster.
 * No third-party plugin/package manager. Neovim can do this already.
-* Vim-EasyComplete because no dependencies. And, it's nice.
