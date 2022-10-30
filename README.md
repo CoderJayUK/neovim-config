@@ -18,9 +18,9 @@ LSP:
 
 * [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) (`:help lsp-config`)
 
-LSP Languages:
+LSP Servers:
 
-* Ruby
+* Ruby: [Solargraph](https://github.com/castwide/solargraph)
 
 Completion:
 
