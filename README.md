@@ -13,6 +13,7 @@ The following plugins are included:
 * [Plenary](https://github.com/nvim-lua/plenary.nvim)
 * [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 * [Vimwiki](https://github.com/vimwiki/vimwiki)
+* [Vim-EasyComplete]()
 
 I use the [OneDark](https://github.com/navarasu/onedark.nvim) color theme.
 
@@ -45,4 +46,4 @@ Run `nvim` to see the changes. Try a command like `:Telescope` :)
 * Vimwiki is awesome!
 * No NerdTree, or nvim-tree. I find fuzzy finding with Telescope much faster.
 * No third-party plugin/package manager. Neovim can do this already.
-
+* Vim-EasyComplete because no dependencies. And, it's nice.

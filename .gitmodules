@@ -13,3 +13,6 @@
 [submodule "pack/colors/start/onedark.nvim"]
 	path = pack/colors/start/onedark.nvim
 	url = git@github.com:navarasu/onedark.nvim.git
+[submodule "pack/plugins/start/vim-easycomplete"]
+	path = pack/plugins/start/vim-easycomplete
+	url = git@github.com:jayli/vim-easycomplete.git
