@@ -14,11 +14,15 @@ The following plugins are included:
 * [Vim-Commentary](https://github.com/tpope/vim-commentary)
 * [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 
-LSP
+LSP:
 
-* [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+* [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) (`:help lsp-config`)
 
-Completion
+LSP Languages:
+
+* Ruby
+
+Completion:
 
 * [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 * [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
