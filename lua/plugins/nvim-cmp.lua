@@ -13,11 +13,13 @@ cmp.setup({
     ['<C-e>'] = cmp.mapping.abort(),
     ['<CR>' ] = cmp.mapping.confirm({ select = true }),
   }),
-  sources = cmp.config.sources({
+  sources = cmp.config.sources {
+    { name = 'path' },
+    { name = 'spell' },
     { name = 'nvim_lsp' },
-    { name = 'luasnip' },
-    { name = 'spell' }
-  }, { name = 'buffer' })
+    { name = 'buffer' },
+    { name = 'luasnip' }
+  }
 })
 
 -- Setup lspconfig
