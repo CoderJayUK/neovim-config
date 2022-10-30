@@ -14,15 +14,15 @@ The following plugins are included:
 * [Vim-Commentary](https://github.com/tpope/vim-commentary)
 * [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 
-LSP:
+**LSP**:
 
 * [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) (`:help lsp-config`)
 
-LSP Servers:
+**LSP Servers**:
 
 * Ruby: [Solargraph](https://github.com/castwide/solargraph)
 
-Completion:
+**Completion**:
 
 * [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 * [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
@@ -51,10 +51,6 @@ Run the following command on Linux, or Windows, to install:
     git clone --recurse-submodules git@github.com:CoderJayUK/neovim-config.git nvim
 
 Run `nvim` to see the changes. Try a command like `:Telescope` :)
-
-## Get Updates
-
-    git pull --recurse-submodules
 
 ## Notes
 
