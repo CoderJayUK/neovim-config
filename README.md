@@ -1,5 +1,7 @@
 # Neovim Configuration
 
+![Coder Jay's Neovim Config](https://github.com/CoderJayUK/neovim-config/example.png)
+
 I'm a Ruby, Rails, and Jekyll developer. This is my personal Neovim configuration that uses zero-dependencies.
 
 * Uses NeoVim's built in package manager (`:help packages`)
