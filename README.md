@@ -1,6 +1,6 @@
 # Neovim Configuration
 
-![Coder Jay's Neovim Config](https://github.com/CoderJayUK/neovim-config/example.png)
+![Coder Jay's Neovim Config](https://github.com/CoderJayUK/neovim-config/blob/main/example.png)
 
 I'm a Ruby, Rails, and Jekyll developer. This is my personal Neovim configuration that uses zero-dependencies.
 
