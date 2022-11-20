@@ -6,6 +6,9 @@ require('lsp/ruby')
 -- Color Scheme
 require('colors/onedark')
 
+-- Keymapping
+require('core/keymaps')
+
 vim.opt.completeopt = { 'menu', 'menuone', 'noselect' }
 
 vim.opt.termguicolors = true
