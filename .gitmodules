@@ -43,3 +43,6 @@
 [submodule "pack/plugins/start/cmp-emoji"]
 	path = pack/plugins/start/cmp-emoji
 	url = git@github.com:hrsh7th/cmp-emoji.git
+[submodule "pack/plugins/start/vim-move"]
+	path = pack/plugins/start/vim-move
+	url = https://github.com/matze/vim-move

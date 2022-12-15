@@ -35,6 +35,13 @@ The following plugins are included:
 
 I use the [OneDark](https://github.com/navarasu/onedark.nvim) color theme.
 
+## Move Blocks In Visual Mode
+
+Highlight a block of text and use:
+
+* `<SHIFT>k` to move the block up
+* `<SHIFT>j` to move the block down
+
 ## Install
 
 Follow the instructions below to install this neovim configuration (backup existing files and/or directories where necessary).

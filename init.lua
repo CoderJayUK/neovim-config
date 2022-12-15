@@ -39,3 +39,5 @@ vim.opt.formatoptions = table.concat({
        -- started and only at a white character that has been entered during
        -- current insert comment
 })
+
+vim.g.move_key_modifier = 'C'
