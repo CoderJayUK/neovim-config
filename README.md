@@ -14,7 +14,8 @@ The following plugins are included:
 * [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 * [Vimwiki](https://github.com/vimwiki/vimwiki)
 * [Vim-Commentary](https://github.com/tpope/vim-commentary)
-* [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
+* [LuaSnip](https://github.com/L3MON4D3/LuaSnip) 
+* [Unicode](https://github.com/chrisbra/unicode.vim)
 
 **LSP**:
 
